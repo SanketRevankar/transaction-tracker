@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/transaction-tracker/static/css/main.f925bb77.css",
-    "main.js": "/transaction-tracker/static/js/main.fd68d39b.js",
+    "main.js": "/transaction-tracker/static/js/main.0a3ed359.js",
     "index.html": "/transaction-tracker/index.html",
     "main.f925bb77.css.map": "/transaction-tracker/static/css/main.f925bb77.css.map",
-    "main.fd68d39b.js.map": "/transaction-tracker/static/js/main.fd68d39b.js.map"
+    "main.0a3ed359.js.map": "/transaction-tracker/static/js/main.0a3ed359.js.map"
   },
   "entrypoints": [
     "static/css/main.f925bb77.css",
-    "static/js/main.fd68d39b.js"
+    "static/js/main.0a3ed359.js"
   ]
 }
